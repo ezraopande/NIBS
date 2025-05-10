@@ -1,0 +1,23 @@
+body {
+  /* background-color: cyan; */
+
+  background-color: #49c896;
+}
+
+/* p {
+  color: blue;
+} */
+
+.j {
+  color: red;
+  /* font-size: 40px; */
+}
+
+.kk {
+  font-size: 50px;
+}
+
+#two {
+  border: 1px white solid;
+  width: 50%;
+}
